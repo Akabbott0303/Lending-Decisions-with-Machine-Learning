@@ -1,4 +1,4 @@
-# Machine Learning Homework
+# Lending Decisions with Machine Learning
 
 Lending money is a important function in our economy.  Obtaining loans increases consumer and corporate buying power.  Lending institutions use several metrics to determine which potential borrowers are good risks (those who will pay the money back) and which are poor risks (those who will "take the money and run").  
 
